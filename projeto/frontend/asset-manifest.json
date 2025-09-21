@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NovaEletro/static/css/main.9a22914f.css",
+    "main.js": "/NovaEletro/static/js/main.be1df483.js",
+    "index.html": "/NovaEletro/index.html",
+    "main.9a22914f.css.map": "/NovaEletro/static/css/main.9a22914f.css.map",
+    "main.be1df483.js.map": "/NovaEletro/static/js/main.be1df483.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a22914f.css",
+    "static/js/main.be1df483.js"
+  ]
+}
