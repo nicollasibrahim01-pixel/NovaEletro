@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Geladeira Frost Free 300L",
+    "description": "Geladeira 300L com tecnologia frost free e eficiência energética A.",
+    "price": 2499.90,
+    "image_url": "https://via.placeholder.com/600x400?text=Geladeira+300L",
+    "brand": "Brastemp",
+    "category": "geladeira"
+  },
+  {
+    "id": 2,
+    "name": "Máquina de Lavar 10kg",
+    "description": "Lavadora 10kg com múltiplos programas de lavagem e baixo consumo.",
+    "price": 1599.90,
+    "image_url": "https://via.placeholder.com/600x400?text=Máquina+10kg",
+    "brand": "Consul",
+    "category": "lavar"
+  },
+  {
+    "id": 3,
+    "name": "Fogão 4 bocas",
+    "description": "Fogão 4 bocas, forno amplo e acendimento automático.",
+    "price": 799.90,
+    "image_url": "https://via.placeholder.com/600x400?text=Fogão+4+bocas",
+    "brand": "Electrolux",
+    "category": "fogao"
+  }
+]
